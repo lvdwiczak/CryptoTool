@@ -1,0 +1,15 @@
+C:\Users\jakub\source\repos\JakCrypto\JakCrypto\bin\Debug\net6.0\JakCrypto.exe
+C:\Users\jakub\source\repos\JakCrypto\JakCrypto\bin\Debug\net6.0\JakCrypto.deps.json
+C:\Users\jakub\source\repos\JakCrypto\JakCrypto\bin\Debug\net6.0\JakCrypto.runtimeconfig.json
+C:\Users\jakub\source\repos\JakCrypto\JakCrypto\bin\Debug\net6.0\JakCrypto.dll
+C:\Users\jakub\source\repos\JakCrypto\JakCrypto\bin\Debug\net6.0\JakCrypto.pdb
+C:\Users\jakub\source\repos\JakCrypto\JakCrypto\obj\Debug\net6.0\JakCrypto.csproj.AssemblyReference.cache
+C:\Users\jakub\source\repos\JakCrypto\JakCrypto\obj\Debug\net6.0\JakCrypto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakub\source\repos\JakCrypto\JakCrypto\obj\Debug\net6.0\JakCrypto.AssemblyInfoInputs.cache
+C:\Users\jakub\source\repos\JakCrypto\JakCrypto\obj\Debug\net6.0\JakCrypto.AssemblyInfo.cs
+C:\Users\jakub\source\repos\JakCrypto\JakCrypto\obj\Debug\net6.0\JakCrypto.csproj.CoreCompileInputs.cache
+C:\Users\jakub\source\repos\JakCrypto\JakCrypto\obj\Debug\net6.0\JakCrypto.dll
+C:\Users\jakub\source\repos\JakCrypto\JakCrypto\obj\Debug\net6.0\refint\JakCrypto.dll
+C:\Users\jakub\source\repos\JakCrypto\JakCrypto\obj\Debug\net6.0\JakCrypto.pdb
+C:\Users\jakub\source\repos\JakCrypto\JakCrypto\obj\Debug\net6.0\JakCrypto.genruntimeconfig.cache
+C:\Users\jakub\source\repos\JakCrypto\JakCrypto\obj\Debug\net6.0\ref\JakCrypto.dll
